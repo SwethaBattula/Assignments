@@ -93,40 +93,54 @@ AI in digital payments
 ✔ Focus: Real-world system analysis
 
 🧠 Skills Demonstrated
+
 💡 Programming & Data
 Python fundamentals
 Data cleaning & preprocessing
 SQL querying & optimization
+
 💡 Machine Learning
 Model training & evaluation
 Regression & classification analysis
 Performance metrics interpretation
+
 💡 MLOps & Systems
 CI/CD pipelines
 Drift detection
 Monitoring & automation
+
 💡 Generative AI
 RAG architecture
 Embeddings & vector search
+
 💡 Analytical Thinking
 Problem-solving
 System design
 Real-world case analysis
+
 🚀 How to Use This Repository
 Navigate to any folder
 Open its README.md
 Follow instructions to run notebooks or scripts
+
 📈 Learning Journey
 
 This repository reflects a structured progression:
 
 ➡️ Programming Basics
+
 ➡️ Data Handling
+
 ➡️ Database Design
+
 ➡️ Data Analysis (SQL)
+
 ➡️ Machine Learning
+
 ➡️ Model Evaluation
+
 ➡️ MLOps (CI/CD)
+
 ➡️ Generative AI (RAG)
 
 👩‍💻 Author
