@@ -19,19 +19,30 @@ The projects demonstrate a complete learning journey from foundational programmi
 📁 Python Lab
 
 📁 Data Handling
+
 📁 Data Model Lab
+
 📁 SQL Lab
+
 📁 Machine Learning
+
 📁 CI-CD ML Lab
+
 📁 RAG
+
 📁 Fintech Case Study
+
 📁 MLOPs
+
 📁 Image Processing
+
 📁 Project Modules
+
 🐍 Python Lab – Basics, Syntax & Variables
 Core Python fundamentals
 Variables, data types, input/output
 Foundation for all further modules
+
 📊 Data Handling & EDA
 NumPy for numerical operations
 Pandas for data cleaning
