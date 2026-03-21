@@ -4,12 +4,19 @@
 This repository showcases a comprehensive collection of hands-on projects covering:
 
 🐍 Python Programming
+
 📊 Data Handling & Exploratory Analysis
+
 🧱 Data Modeling & Database Design
+
 🗄️ SQL (Basic → Advanced)
+
 🤖 Machine Learning & Model Evaluation
+
 🔁 CI/CD for Machine Learning (MLOps)
+
 🧠 Retrieval-Augmented Generation (RAG)
+
 💳 Fintech Case Study
 
 The projects demonstrate a complete learning journey from foundational programming to building production-ready AI systems.
