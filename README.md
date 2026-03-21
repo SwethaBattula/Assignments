@@ -15,7 +15,9 @@ This repository showcases a comprehensive collection of hands-on projects coveri
 The projects demonstrate a complete learning journey from foundational programming to building production-ready AI systems.
 
 📂 Repository Structure
+
 📁 Python Lab
+
 📁 Data Handling
 📁 Data Model Lab
 📁 SQL Lab
