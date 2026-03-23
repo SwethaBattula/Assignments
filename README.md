@@ -159,6 +159,9 @@ Swetha Battula
 This portfolio demonstrates not only coding skills but also the ability to:
 
 ✔ Design systems
+
 ✔ Analyze data
+
 ✔ Build scalable ML pipelines
+
 ✔ Work with modern AI architectures
